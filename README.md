@@ -1,2 +1,2 @@
 # bookbot
-creating a Bookbot from Bootdev
+BookBot is my first project!
